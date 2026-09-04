@@ -18,9 +18,11 @@
 ## 🛠️ Tech Stack
 
 ### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,13 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekverma9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhishek's GitHub Stats" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekverma9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhishekverma9&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -59,9 +55,9 @@
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
+| 🛒 [Supermarket](https://github.com/abhishekverma9/supermarket) | Full-featured supermarket management system | MERN Stack |
 | 🏛️ [Gymkhana Website 2025](https://github.com/web-team-iiti/Gymkhana_website_2025) | Official Gymkhana website for IIT Indore — built as part of the Web Team | Next.js, React, Tailwind CSS |
 | 💬 [PingUp](https://github.com/abhishekverma9/PingUp) | Real-time chat application with instant messaging | MERN Stack, Socket.io |
-| 🛒 [Supermarket](https://github.com/abhishekverma9/supermarket) | Full-featured supermarket management system | MERN Stack |
 
 ---
 
